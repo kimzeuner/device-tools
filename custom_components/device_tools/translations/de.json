@@ -7,6 +7,11 @@
         },
         "flow_title": "Füge eine neue Modifikation hinzu",
         "step": {
+            "init": {
+                "data": {
+                    "modification_type": "Änderungstyp"
+                }
+            },
             "user": {
                 "title": "Füge eine neue Modifikation hinzu",
                 "data": {
