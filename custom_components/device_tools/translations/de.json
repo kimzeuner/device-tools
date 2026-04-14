@@ -62,11 +62,11 @@
     },
     "selector": {
         "modification_type": {
-        "options": {
-            "attributes": "Attribute",
-            "entities": "Entitäten",
-            "merge": "Zusammenführen"
-        }
+            "options": {
+                "attributes": "Attribute",
+                "entities": "Entitäten",
+                "merge": "Zusammenführen"
+            }
         }
     }
 }
